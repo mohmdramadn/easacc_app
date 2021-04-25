@@ -7,7 +7,7 @@ This project is a test for some functions. It is consisted of 3 pages.
 - Login with Google button.
 - Navigation button for the second page.
 
-## Second screen (WebView screen)
+## [Second screen (WebView screen)](https://github.com/mohmdramadn/easacc_app/tree/main/lib/src/web_view_page)
 - View webpages from a URL that the user inputs.
 - TabBar Navigation to Settings button.
 
