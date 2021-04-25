@@ -1,16 +1,16 @@
 # easacc_test_app
 
-A test application for Easacc.
+This project is a test for some functions. It is consisted of 3 pages.
 
-## Getting Started
+## First page (Facebook/Google Login screen)
+- Login with Facebook button.
+- Login with Google button.
+- Navigation button for the second page.
 
-This project is a starting point for a Flutter application.
+## Second screen (WebView screen)
+- View webpages from a URL that the user inputs.
+- TabBar Navigation to Settings button.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Third screen (Settings screen)
+- Set a Website to view in the WebView screen.
+- See Wifi connected devices.
