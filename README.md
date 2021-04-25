@@ -2,7 +2,7 @@
 
 This project is a test for some functions. It is consisted of 3 pages.
 
-## First page (Facebook/Google Login screen)
+## [First page (Facebook/Google Login screen)](https://github.com/mohmdramadn/easacc_app/tree/main/lib/src/social_media_page)
 - Login with Facebook button.
 - Login with Google button.
 - Navigation button for the second page.
@@ -11,6 +11,6 @@ This project is a test for some functions. It is consisted of 3 pages.
 - View webpages from a URL that the user inputs.
 - TabBar Navigation to Settings button.
 
-## Third screen (Settings screen)
+## [Third screen (Settings screen)](https://github.com/mohmdramadn/easacc_app/tree/main/lib/src/setting_page)
 - Set a Website to view in the WebView screen.
 - See Wifi connected devices.
